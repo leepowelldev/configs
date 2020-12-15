@@ -1,0 +1,40 @@
+{
+  "name": "@leepowelldev/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint config",
+  "keywords": [
+    "eslint",
+    "config",
+    "shareable"
+  ],
+  "homepage": "https://github.com/leepowelldev/configs",
+  "bugs": {
+    "url": "https://github.com/leepowelldev/configs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leepowelldev/configs.git"
+  },
+  "license": "ISC",
+  "author": {
+    "name": "Lee Powell",
+    "email": "lee@leepowell.dev",
+    "url": "https://leepowell.dev"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@typescript-eslint/parser": "^4.9.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^6.15.0"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.9.0",
+    "eslint": "^7.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.2.0",
+    "typescript": ">=4.0.0"
+  }
+}

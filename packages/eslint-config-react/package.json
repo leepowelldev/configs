@@ -1,0 +1,31 @@
+{
+  "name": "@leepowelldev/eslint-config-react",
+  "version": "1.0.0",
+  "description": "ESLint React config",
+  "keywords": [
+    "eslint",
+    "config",
+    "shareable"
+  ],
+  "homepage": "https://github.com/leepowelldev/configs",
+  "bugs": {
+    "url": "https://github.com/leepowelldev/configs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leepowelldev/configs.git"
+  },
+  "license": "ISC",
+  "author": {
+    "name": "Lee Powell",
+    "email": "lee@leepowell.dev",
+    "url": "https://leepowell.dev"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^18.2.1"
+  }
+}

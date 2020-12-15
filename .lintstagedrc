@@ -1,0 +1,6 @@
+{
+  "*": "npm run format:write --",
+  "*.js": [
+    "npm run lint:fix --"
+  ]
+}

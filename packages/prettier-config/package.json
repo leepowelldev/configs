@@ -1,0 +1,31 @@
+{
+  "name": "@leepowelldev/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config",
+  "keywords": [
+    "prettier",
+    "config",
+    "shareable"
+  ],
+  "homepage": "https://github.com/leepowelldev/configs",
+  "bugs": {
+    "url": "https://github.com/leepowelldev/configs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leepowelldev/configs.git"
+  },
+  "license": "ISC",
+  "author": {
+    "name": "Lee Powell",
+    "email": "lee@leepowell.dev",
+    "url": "https://leepowell.dev"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
